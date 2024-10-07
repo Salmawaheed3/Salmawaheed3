@@ -1,5 +1,5 @@
 
-<h1 align="center"><strong>Salma Waheed</strong></h1>
+<h1 align="center"><strong>Salma Waheed Saeed</strong></h1>
 <h3 align="center">Machine Learning Engineer</h3>
 
 <p align="center">
