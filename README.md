@@ -16,8 +16,9 @@ Building intelligent systems and solving problems using data-driven and AI-power
 <hr>
 
 ### 👨‍💻 About Me:
-I'm a passionate Data Science, AI, and Machine Learning professional with a solid foundation in data analysis and a deep enthusiasm for extracting insights from complex datasets. I hold a degree in Computer Science and Information, with proven experience in building and deploying AI and machine learning models to solve real-world problems. As a fresh software engineer, I'm eager to apply my skills and continue growing in this field.
-
+ML \& AI Engineer with B.Sc. in Computer Science specializing in recommendation systems, real-time personalization, and LLM-powered AI systems
+Expert in end-to-end production ML pipelines using Kafka, Spark, and FastAPI; proficient in session-based recommenders, RAG chatbots, and adaptive AI platform
+Skilled in PyTorch, Transformers, LangChain, Docker, MLOps with strong data engineering and model optimization background
 🌐 **Data Enthusiast**: Skilled in data analysis, machine learning, and AI model development.
 
 📚 **Continuously Learning**: Actively working on projects to enhance my data science and AI capabilities.
